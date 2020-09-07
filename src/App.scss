@@ -1,0 +1,150 @@
+.card-header {
+  background: #85c1e9 !important;
+  text-align: center;
+  font-size: 12px !important;
+  padding: 8px !important;
+}
+
+.card-content {
+  text-align: center;
+  font-weight: bolder;
+  color: black;
+  font-size: 20px !important;
+  padding: 14px !important;
+}
+
+.banner {
+  height: 50px;
+  background: #001529;
+  margin-bottom: 1.5rem;
+  color: white;
+  font-weight: bolder;
+  padding: 15px 0px 15px 30px;
+  font-size: 20px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.store-gauge-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+  margin-bottom: 10%;
+}
+
+.store-gauge svg {
+  overflow: visible !important;
+  float: left !important;
+  margin-bottom: 10px;
+}
+
+.chart-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.chart-size {
+  width: 32%;
+}
+
+.chart-header-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.5rem;
+}
+
+.filter-panel {
+  float: right;
+  margin: 0 0.2rem 0 0.2rem;
+}
+
+.tab-label {
+  font-weight: bolder !important;
+  font-size: 15px !important;
+
+  a {
+    font-weight: bolder !important;
+  }
+}
+
+.oms-section {
+  min-height: 200px;
+
+  .first-row {
+    display: flex;
+    justify-content: center;
+
+    div {
+      height: 80px;
+      width: 33.33%;
+      background: #32cd32;
+      text-align: center;
+      padding: 30px;
+      cursor: pointer;
+
+      span {
+        font-size: 20px;
+        font-weight: bolder;
+      }
+    }
+  }
+
+  .second-row {
+    display: flex;
+    justify-content: space-between;
+
+    div:nth-child(1) {
+      height: 80px;
+      width: 33.33%;
+      background: #32cd32;
+      text-align: center;
+      padding: 30px;
+      cursor: pointer;
+
+      span {
+        font-size: 20px;
+        font-weight: bolder;
+      }
+    }
+
+    div:nth-child(2) {
+      height: 80px;
+      width: 33.33%;
+    }
+
+    div:last-child {
+      height: 80px;
+      width: 33.33%;
+      background: #32cd32;
+      text-align: center;
+      padding: 30px;
+      cursor: pointer;
+
+      span {
+        font-size: 20px;
+        font-weight: bolder;
+      }
+    }
+  }
+
+  .third-row {
+    display: flex;
+    justify-content: center;
+
+    div {
+      height: 80px;
+      width: 33.33%;
+      background: #ffbf00;
+      text-align: center;
+      padding: 30px;
+      cursor: pointer;
+
+      span {
+        font-size: 20px;
+        font-weight: bolder;
+      }
+    }
+  }
+}

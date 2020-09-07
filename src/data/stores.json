@@ -1,0 +1,23 @@
+[
+  { "id": 241, "name": "Putney", "areaId": 31, "zoneId": 4 },
+  { "id": 358, "name": "Chiswick", "areaId": 31, "zoneId": 4 },
+  { "id": 390, "name": "Orpington", "areaId": 31, "zoneId": 4 },
+  { "id": 482, "name": "Bromley", "areaId": 31, "zoneId": 4 },
+  { "id": 535, "name": "Balham", "areaId": 31, "zoneId": 4 },
+  { "id": 536, "name": "Croydon", "areaId": 31, "zoneId": 4 },
+  { "id": 543, "name": "New Malden", "areaId": 31, "zoneId": 4 },
+  { "id": 599, "name": "Blackfen", "areaId": 31, "zoneId": 4 },
+  { "id": 703, "name": "Old Kent Road", "areaId": 31, "zoneId": 4 },
+  { "id": 716, "name": "Brixton", "areaId": 31, "zoneId": 4 },
+  { "id": 723, "name": "West Wickham", "areaId": 31, "zoneId": 4 },
+  { "id": 740, "name": "Sutton", "areaId": 31, "zoneId": 4 },
+  { "id": 751, "name": "Croydon", "areaId": 31, "zoneId": 4 },
+  { "id": 838, "name": "Wandsworth", "areaId": 31, "zoneId": 4 },
+  { "id": 895, "name": "Catford", "areaId": 31, "zoneId": 4 },
+  { "id": 896, "name": "Hounslow", "areaId": 31, "zoneId": 4 },
+  { "id": 898, "name": "Hayes", "areaId": 31, "zoneId": 4 },
+  { "id": 974, "name": "Charlton", "areaId": 31, "zoneId": 4 },
+  { "id": 991, "name": "Wimbledon", "areaId": 31, "zoneId": 4 },
+  { "id": 993, "name": "Twickenham", "areaId": 31, "zoneId": 4 },
+  { "id": 217, "name": "Kingston On Thames", "areaId": 31, "zoneId": 4 }
+]

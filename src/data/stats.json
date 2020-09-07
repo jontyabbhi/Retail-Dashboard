@@ -1,0 +1,30 @@
+{
+  "0": [
+    { "name": "Till", "value": 70, "totalStores": 470 },
+    { "name": "Tablet", "value": 32, "totalStores": 470 },
+    { "name": "Phone", "value": 29, "totalStores": 470 },
+    { "name": "Wi-Fi", "value": 55, "totalStores": 470 },
+    { "name": "Printer", "value": 58, "totalStores": 470 }
+  ],
+  "4": [
+    { "name": "Till", "value": 15, "totalStores": 100 },
+    { "name": "Tablet", "value": 7, "totalStores": 100 },
+    { "name": "Phone", "value": 3, "totalStores": 100 },
+    { "name": "Wi-Fi", "value": 22, "totalStores": 100 },
+    { "name": "Printer", "value": 3, "totalStores": 100 }
+  ],
+  "431": [
+    { "name": "Till", "value": 5, "totalStores": 60 },
+    { "name": "Tablet", "value": 2, "totalStores": 60 },
+    { "name": "Phone", "value": 0, "totalStores": 60 },
+    { "name": "Wi-Fi", "value": 13, "totalStores": 60 },
+    { "name": "Printer", "value": 1, "totalStores": 60 }
+  ],
+  "431543": [
+    { "name": "Till", "value": 3, "totalStores": 20 },
+    { "name": "Tablet", "value": 1, "totalStores": 20 },
+    { "name": "Phone", "value": 0, "totalStores": 20 },
+    { "name": "Wi-Fi", "value": 2, "totalStores": 20 },
+    { "name": "Printer", "value": 0, "totalStores": 20 }
+  ]
+}
